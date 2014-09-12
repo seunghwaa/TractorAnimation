@@ -22,3 +22,6 @@ function tractorClick() {
 	pretractor.animations.play('walk', 7, false);
 	//tractor.animations.play('walk', 7, false);
 }
+
+
+
